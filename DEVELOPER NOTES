@@ -1,0 +1,6 @@
+Fullstack MERN app.
+Uses jwt token stored in localstorage accessed through headers-authorization-bearer token
+redux basic state management with axios server call
+Manual handling of redux events
+frontend built with create-react-app
+login logout functionality
